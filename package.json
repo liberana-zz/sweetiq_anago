@@ -1,0 +1,28 @@
+{
+  "name": "sweetiq_anago",
+  "version": "1.0.0",
+  "description": "SweetIQ Test Assigment Ana Gonzalez",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liberana/sweetiq_anago.git"
+  },
+  "keywords": [
+    "sweetiq"
+  ],
+  "author": "Ana Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liberana/sweetiq_anago/issues"
+  },
+  "homepage": "https://github.com/liberana/sweetiq_anago#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
+  }
+}
